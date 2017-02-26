@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.grubby.net/post/providence-station-clock/</loc>
+    <lastmod>2017-02-22T18:08:16-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.grubby.net/about/</loc>
     <lastmod>2017-02-18T14:01:40-05:00</lastmod>
   </url>
@@ -13,13 +18,13 @@
   
   <url>
     <loc>http://www.grubby.net/post/</loc>
-    <lastmod>2017-02-18T10:29:02-05:00</lastmod>
+    <lastmod>2017-02-22T18:08:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.grubby.net/</loc>
-    <lastmod>2017-02-18T14:01:40-05:00</lastmod>
+    <lastmod>2017-02-22T18:08:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
